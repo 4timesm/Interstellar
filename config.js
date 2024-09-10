@@ -8,3 +8,5 @@ const config = {
   local: true, // Change this to false to disable local assets.
 }
 export default config
+pnpm i pnpm start
+
